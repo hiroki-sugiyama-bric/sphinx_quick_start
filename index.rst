@@ -5,6 +5,8 @@
 
 Welcome to quick_start's documentation!
 =======================================
+Welcome to quick_start's documentation!
+=======================================
 
 .. toctree::
    :maxdepth: 2
